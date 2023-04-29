@@ -23,8 +23,8 @@ if user_menu == 'Medal Tally':
     selected_year = st.sidebar.selectbox("Select Year",years)
     selected_country = st.sidebar.selectbox("Select Country",country)
     
-    medal_tally = helper.medal_tally(df)
-    st.dataframe(medal_tally)
+    medal_tally = helper.fetch_medal_tally(df,selected_year,selected_country)
+    st.dataframe(medal_tally)  
 
 
  
