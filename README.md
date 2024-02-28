@@ -19,7 +19,27 @@ Some Visuals of the Project :
 <h3> This is the MEDAL TALLY  </h3>
 <img width="914" alt="image" src="https://github.com/shivamj2001/Olysis/assets/93713364/eae21c56-5909-4851-a0a9-d21876926f76"> 
 
-<h3> This is the opening page </h3>
+<h3> This is the Overall Analysis : </h3>
+
+<img width="882" alt="image" src="https://github.com/shivamj2001/Olysis/assets/93713364/d5a86056-f536-431b-a137-a000c08c392c">
+<h3> Further in the page : </h3>
+<img width="367" alt="image" src="https://github.com/shivamj2001/Olysis/assets/93713364/36256904-f374-4efe-87ce-efb9a47ff50e">
+
+
+
+
+<h3> This is the COUNTRY WISE ANALYSIS : </h3>
+
+<img width="898" alt="image" src="https://github.com/shivamj2001/Olysis/assets/93713364/86af57fb-8eb6-4bd1-a739-29d292678f21">
+
+
+
+
+
+<h3> This is the ATHLETE WISE ANALYSIS :  </h3>
+
+<img width="896" alt="image" src="https://github.com/shivamj2001/Olysis/assets/93713364/90b0ceae-8a3c-49e2-874f-1a2726c10be4">
+
 
 
 
