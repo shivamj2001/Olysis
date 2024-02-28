@@ -1,4 +1,4 @@
-#Olysis 
+##Olysis 
 Olysis is olympic analysis : is a web application developed for analyzing Olympic data. It provides comprehensive insights into medal tallies, country-wise performances, and athlete-centric statistics.
 
 Overview
