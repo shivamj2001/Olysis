@@ -1,3 +1,4 @@
+<h1>OLYMPIC ANALYSIS</h1>
 
 Olysis is olympic analysis : is a web application developed for analyzing Olympic data. It provides comprehensive insights into medal tallies, country-wise performances, and athlete-centric statistics.
 
@@ -15,7 +16,11 @@ User-Friendly Navigation: OlympiInsight ensures user-friendly navigation and acc
 
 Some Visuals of the Project : 
 
-<img width="914" alt="image" src="https://github.com/shivamj2001/Olysis/assets/93713364/eae21c56-5909-4851-a0a9-d21876926f76">
+<h3> This is the MEDAL TALLY  </h3>
+<img width="914" alt="image" src="https://github.com/shivamj2001/Olysis/assets/93713364/eae21c56-5909-4851-a0a9-d21876926f76"> 
+
+<h3> This is the opening page </h3>
+
 
 
 Try it Here
