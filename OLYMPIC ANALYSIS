@@ -1,4 +1,4 @@
-##Olysis 
+
 Olysis is olympic analysis : is a web application developed for analyzing Olympic data. It provides comprehensive insights into medal tallies, country-wise performances, and athlete-centric statistics.
 
 Overview
@@ -12,6 +12,11 @@ Web Application: OlympiInsight is built using Python and the Streamlit platform,
 Filtered Analyses: The application offers filtered analyses to provide comprehensive perspectives on medal tallies, country-wise performances, and athlete-centric statistics.
 
 User-Friendly Navigation: OlympiInsight ensures user-friendly navigation and accessibility, making it a valuable tool for users with varying levels of expertise.
+
+Some Visuals of the Project : 
+
+<img width="914" alt="image" src="https://github.com/shivamj2001/Olysis/assets/93713364/eae21c56-5909-4851-a0a9-d21876926f76">
+
 
 Try it Here
 Explore the application here "https://olympics-analysis-doyr.onrender.com/".
